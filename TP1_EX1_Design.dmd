@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="TP1_EX1_Design" id="04691A33-72EB-CB40-7C62-660336C37559" version="3.5">
+<createdBy>franciscopearson</createdBy>
+<createdTime>2026-03-21 14:37:47 UTC</createdTime>
+<ownerDesignName>TP1_EX1_Design</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>04691A33-72EB-CB40-7C62-660336C37559</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="0BE06662-C09E-2B9E-EC72-4721FF0E4E51">
+<designStoragePath>/MediaFlix</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
